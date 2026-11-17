@@ -1,0 +1,22 @@
+# Code lives in its own repo (benjipiwc/front-desk-agent)
+Front Desk Agent/
+
+# Mac / Windows junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Obsidian per-device files (cause sync conflicts)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/cache
+.trash/
+
+# Safety nets
+node_modules/
+.wrangler/
+.env
+*.xlsx
+*.xls
+*.csv
